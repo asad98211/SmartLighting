@@ -1,0 +1,1 @@
+# SmartLighting is a simple demostration of RGB light and Remote Control which can be used to adjust brightness and color of the RGB. Main plan was to design a system that can understand human mood and adjust rooms condition according to comfort the person. Currently working on making the whole system autonomous. 
